@@ -1,0 +1,136 @@
+{
+    "version": 1,
+    "refs": {
+        ".zgroup": "{\"zarr_format\":2}",
+        ".zattrs": "{\"Comment\":\"GMAO filename: d5124_m2_jan10.statD_2d_slv_Nx.20240101.nc4\",\"Contact\":\"http:\\\/\\\/gmao.gsfc.nasa.gov\",\"Conventions\":\"CF-1\",\"DataResolution\":\"0.5 x 0.625\",\"EasternmostLongitude\":\"179.375\",\"Filename\":\"MERRA2_400.statD_2d_slv_Nx.20240101.nc4\",\"Format\":\"NetCDF-4\\\/HDF-5\",\"GranuleID\":\"MERRA2_400.statD_2d_slv_Nx.20240101.nc4\",\"History\":\"Original file generated: Thu Jan 11 20:17:37 2024 GMT\",\"Institution\":\"NASA Global Modeling and Assimilation Office\",\"LatitudeResolution\":\"0.5\",\"LongName\":\"MERRA2 statD_2d_slv_Nx: 2d,Daily,Aggregated Statistics,Single-Level,Assimilation,Single-Level Diagnostics\",\"LongitudeResolution\":\"0.625\",\"NCO\":\"netCDF Operators version 4.9.3-alpha05 (Homepage = http:\\\/\\\/nco.sf.net, Code = http:\\\/\\\/github.com\\\/nco\\\/nco)\",\"NorthernmostLatitude\":\"90.0\",\"ProductionDateTime\":\"Original file generated: Thu Jan 11 20:17:37 2024 GMT\",\"RangeBeginningDate\":\"2024-01-01\",\"RangeBeginningTime\":\"00:00:00.000000\",\"RangeEndingDate\":\"2024-01-01\",\"RangeEndingTime\":\"23:59:59.000000\",\"References\":\"http:\\\/\\\/gmao.gsfc.nasa.gov\",\"ShortName\":\"M2SDNXSLV\",\"Source\":\"CVS tag: GEOSadas-5_12_4_p38_SLES12_M2-OPS\",\"SouthernmostLatitude\":\"-90.0\",\"SpatialCoverage\":\"global\",\"TemporalRange\":\"1980-01-01 -> 2016-12-31\",\"Title\":\"MERRA2 statD_2d_slv_Nx: 2d,Daily,Aggregated Statistics,Single-Level,Assimilation,Single-Level Diagnostics\",\"VersionID\":\"5.12.4\",\"WesternmostLongitude\":\"-180.0\",\"identifier_product_doi\":\"10.5067\\\/9SC1VNTWGWV3\",\"identifier_product_doi_authority\":\"http:\\\/\\\/dx.doi.org\\\/\"}",
+        "TPRECMAX\/0.0.0": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1407406,
+            24064
+        ],
+        "TPRECMAX\/0.0.1": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1431470,
+            24937
+        ],
+        "TPRECMAX\/0.0.2": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1456407,
+            24335
+        ],
+        "TPRECMAX\/0.0.3": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1480742,
+            23993
+        ],
+        "TPRECMAX\/0.1.0": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1504735,
+            26216
+        ],
+        "TPRECMAX\/0.1.1": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1530951,
+            26987
+        ],
+        "TPRECMAX\/0.1.2": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1557938,
+            26875
+        ],
+        "TPRECMAX\/0.1.3": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1584813,
+            27162
+        ],
+        "TPRECMAX\/0.2.0": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1611975,
+            27441
+        ],
+        "TPRECMAX\/0.2.1": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1639416,
+            27676
+        ],
+        "TPRECMAX\/0.2.2": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1667092,
+            27693
+        ],
+        "TPRECMAX\/0.2.3": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1694785,
+            27162
+        ],
+        "TPRECMAX\/0.3.0": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1721947,
+            23912
+        ],
+        "TPRECMAX\/0.3.1": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1745859,
+            24016
+        ],
+        "TPRECMAX\/0.3.2": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1769875,
+            23825
+        ],
+        "TPRECMAX\/0.3.3": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            1793700,
+            23880
+        ],
+        "TPRECMAX\/.zarray": "{\"chunks\":[1,91,144],\"compressor\":null,\"dtype\":\"<f4\",\"fill_value\":999999986991104.0,\"filters\":[{\"elementsize\":4,\"id\":\"shuffle\"},{\"id\":\"zlib\",\"level\":2}],\"order\":\"C\",\"shape\":[1,361,576],\"zarr_format\":2}",
+        "TPRECMAX\/.zattrs": "{\"_ARRAY_DIMENSIONS\":[\"time\",\"lat\",\"lon\"],\"cell_methods\":\"time: maximum\",\"fmissing_value\":999999986991104.0,\"long_name\":\"total_precipitation\",\"missing_value\":999999986991104.0,\"standard_name\":\"total_precipitation\",\"units\":\"kg m-2 s-1\",\"valid_range\":[-999999986991104.0,999999986991104.0],\"vmax\":999999986991104.0,\"vmin\":-999999986991104.0}",
+        "lat\/0": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            25317,
+            76
+        ],
+        "lat\/1": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            25393,
+            125
+        ],
+        "lat\/2": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            25518,
+            111
+        ],
+        "lat\/3": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            25629,
+            82
+        ],
+        "lat\/.zarray": "{\"chunks\":[91],\"compressor\":null,\"dtype\":\"<f8\",\"fill_value\":null,\"filters\":[{\"elementsize\":8,\"id\":\"shuffle\"},{\"id\":\"zlib\",\"level\":2}],\"order\":\"C\",\"shape\":[361],\"zarr_format\":2}",
+        "lat\/.zattrs": "{\"_ARRAY_DIMENSIONS\":[\"lat\"]}",
+        "lon\/0": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            24542,
+            170
+        ],
+        "lon\/1": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            24712,
+            214
+        ],
+        "lon\/2": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            24926,
+            222
+        ],
+        "lon\/3": [
+            "https:\/\/data.gesdisc.earthdata.nasa.gov\/data\/MERRA2\/M2SDNXSLV.5.12.4\/2024\/01\/MERRA2_400.statD_2d_slv_Nx.20240101.nc4",
+            25148,
+            169
+        ],
+        "lon\/.zarray": "{\"chunks\":[144],\"compressor\":null,\"dtype\":\"<f8\",\"fill_value\":null,\"filters\":[{\"elementsize\":8,\"id\":\"shuffle\"},{\"id\":\"zlib\",\"level\":2}],\"order\":\"C\",\"shape\":[576],\"zarr_format\":2}",
+        "lon\/.zattrs": "{\"_ARRAY_DIMENSIONS\":[\"lon\"]}",
+        "time\/0": "base64:AIAMSmE3phc=",
+        "time\/.zarray": "{\"chunks\":[1],\"compressor\":null,\"dtype\":\"<M8[ns]\",\"fill_value\":null,\"filters\":null,\"order\":\"C\",\"shape\":[1],\"zarr_format\":2}",
+        "time\/.zattrs": "{\"long_name\":\"time\",\"begin_date\":20240101,\"begin_time\":3000,\"cell_methods\":\"time: mean\",\"time_interval\":24,\"time_increment\":240000,\"vmax\":999999986991104.0,\"vmin\":-999999986991104.0,\"valid_range\":[-999999986991104.0,999999986991104.0],\"_ARRAY_DIMENSIONS\":[\"time\"]}"
+    }
+}
